@@ -26,3 +26,10 @@ El proyecto implementa las clases del modelo de dominio:
 Para ejecutar todas las pruebas desde la consola:
 ```bash
 .\mvnw test
+
+---
+
+## 📷 Evidencias de Funcionamiento
+
+### link de las pruebas
+![Pruebas totales](./img/)
