@@ -3,6 +3,7 @@
 Este proyecto es la implementación en Java / Spring Boot del sistema de gestión hotelera, correspondiente a la entrega académica.
 
 ## 🚀 Tecnologías Utilizadas
+
 - **Java 21**
 - **Spring Boot** (Spring Data JPA, WebMVC)
 - **H2 Database** (Base de datos en memoria)
@@ -13,6 +14,7 @@ Este proyecto es la implementación en Java / Spring Boot del sistema de gestió
 ---
 
 ## 📋 Funcionalidades e Implementación
+
 El proyecto implementa las clases del modelo de dominio:
 1. `Usuario`: Autenticación e inicio de sesión.
 2. `Cliente`: Datos personales del huésped.
@@ -23,6 +25,7 @@ El proyecto implementa las clases del modelo de dominio:
 ---
 
 ## 🧪 Pruebas Unitarias (JUnit 5)
+
 Para ejecutar todas las pruebas desde la consola:
 ```bash
 .\mvnw test
@@ -33,3 +36,9 @@ Para ejecutar todas las pruebas desde la consola:
 
 ### link de las pruebas
 ![Pruebas totales](./img/)
+
+
+
+## tengo que tener dos tipos de pruebas
+-- prueba funcional
+-- prueba unitaria
